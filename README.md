@@ -1,5 +1,6 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TalelCS.TalelCS" />
+<img align="center" src="https://raw.githubusercontent.com/TalelCS/TalelCS/main/Talel%20Galai.gif" />
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TalelCS.TalelCS" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Talel+Galai!;" />
 </h1>
